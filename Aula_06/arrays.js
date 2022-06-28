@@ -1,0 +1,16 @@
+let array = []
+
+array.push(1)
+console.log(array)
+array.push(2,3)
+console.log(array)
+array.pop()
+console.log(array)
+array.push(3)
+console.log(array)
+array.shift()
+console.log(array)
+array.unshift(1)
+console.log(array)
+console.log(array.includes(3))
+console.log(array.reverse())
